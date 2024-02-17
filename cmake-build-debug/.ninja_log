@@ -1,0 +1,4 @@
+# ninja log v5
+1	2149	7299101948780995	CMakeFiles/TextEditor.dir/main.cpp.obj	2b1964f6da70e383
+52	2380	7299101951121058	CMakeFiles/TextEditor.dir/TextEditorFunc.cpp.obj	640b9e5436f5c699
+2381	2911	7299101956319650	TextEditor.exe	8895a78c39d4b553
